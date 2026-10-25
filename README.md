@@ -37,7 +37,7 @@ de CONECTIA PANAMA S.A. (estamos tramitando la firma de editor para que el aviso
 - 📄 **Hoja de encargo** con consentimiento de la Ley 81 · 🛡 **debida diligencia** de la Ley 23.
 - 💰 **Fondos de clientes** con rendición de cuentas · ⏱ **cronómetro** y facturación.
 - ✉️ **Correo al expediente** · 🛟 **respaldo cifrado** fuera del NAS · 👥 **equipo y permisos**.
-- 🧩 **Plugins** firmados y aislados, con tienda y clave propia; el primero: 🧮 **liquidación laboral**.
+- 🧩 **Plugins** firmados y aislados, con tienda y clave propia: ⚖️ **Litigio** (audiencias, línea de tiempo, partes, pruebas y validador de hechos), 🗂 **Tablero de casos** y 🧮 **Liquidación laboral**.
 
 Este repositorio solo publica los instaladores; el código de CerebroLex es privado.
 
