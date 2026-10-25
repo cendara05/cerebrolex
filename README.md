@@ -9,11 +9,13 @@ lugar, con Claude trabajando a tu lado y normas verificadas en fuente oficial.
 
 ## Descargar
 
-| | Windows |
-|---|---|
-| **Probar 30 días gratis** (una bóveda, hasta 3 casos) | [CerebroLex-Prueba-Windows.exe](https://github.com/cendara05/cerebrolex/releases/latest/download/CerebroLex-Prueba-Windows.exe) |
-| **Versión Pro** (se activa con tu clave de licencia) | [CerebroLex-Pro-Windows.exe](https://github.com/cendara05/cerebrolex/releases/latest/download/CerebroLex-Pro-Windows.exe) |
-| Mac | muy pronto |
+**Descarga CerebroLex desde [cerebrolex.com](https://cerebrolex.com/#descargar)**: antes de descargar lees y aceptas las
+[Condiciones del servicio](https://cerebrolex.com/terminos/) y la [Política de privacidad](https://cerebrolex.com/privacidad/).
+La aplicación también te pide aceptarlas antes de usarla.
+
+- **Probar 30 días gratis** (una bóveda, hasta 3 casos) — Windows
+- **Versión Pro** (se activa con tu clave de licencia) — Windows
+- Mac: muy pronto
 
 Después de instalarlo, **CerebroLex se actualiza solo** desde aquí.
 
